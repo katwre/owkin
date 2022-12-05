@@ -10,4 +10,4 @@ My steps:
 -    Cox model: age + ISS + expression of PHF19 and MMSE genes
 -    Cox model: age + ISS + selected gene expressions selected from the LASSO based cox model
 -    Cox model: age + ISS + selected gene expressions from gene pathways known to be associated with multiple myeloma
--    Assess performance of all models and pick the best one
+-    Assess performance of all models by using C-index and pick the best one
